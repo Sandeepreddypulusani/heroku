@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/heroku-app/static/css/main.a617e044.chunk.css",
+    "main.js": "/heroku-app/static/js/main.6ec80228.chunk.js",
+    "main.js.map": "/heroku-app/static/js/main.6ec80228.chunk.js.map",
+    "runtime-main.js": "/heroku-app/static/js/runtime-main.95be77a4.js",
+    "runtime-main.js.map": "/heroku-app/static/js/runtime-main.95be77a4.js.map",
+    "static/js/2.57e8944d.chunk.js": "/heroku-app/static/js/2.57e8944d.chunk.js",
+    "static/js/2.57e8944d.chunk.js.map": "/heroku-app/static/js/2.57e8944d.chunk.js.map",
+    "static/js/3.ca5d86c6.chunk.js": "/heroku-app/static/js/3.ca5d86c6.chunk.js",
+    "static/js/3.ca5d86c6.chunk.js.map": "/heroku-app/static/js/3.ca5d86c6.chunk.js.map",
+    "index.html": "/heroku-app/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/heroku-app/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.57e8944d.chunk.js.LICENSE.txt": "/heroku-app/static/js/2.57e8944d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/heroku-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95be77a4.js",
+    "static/js/2.57e8944d.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.6ec80228.chunk.js"
+  ]
+}
